@@ -37,7 +37,7 @@ LTIMindtree - Bangalore | Oct 2021 - Present**
 
 ---
 
-##C O U R S E S 
+## C O U R S E S 
 **Microsoft Certified: Power BI Data Analyst Associate
 Introduction to Data 
 Analytics – IBM**
